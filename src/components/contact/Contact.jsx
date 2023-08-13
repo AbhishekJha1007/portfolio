@@ -26,8 +26,8 @@ const Contact = () => {
 
   function copyEmail() {
     navigator.clipboard.writeText('jha.abhishek1099@gmail.com')
-    setCopySuccessMessage(`jha.abhishek1099@gmail.com copied to clipboard`)
-    setInstructions('')
+    // setCopySuccessMessage(`jha.abhishek1099@gmail.com copied to clipboard`)
+    // setInstructions('')
     // window.open('mailto:jha.abhishek1099@gmail.com')
   }
 
@@ -40,8 +40,8 @@ const Contact = () => {
         <div className="contact__infor">
           <h3 className="contact__title">Let's connect !</h3>
           <p className="contact__details">Don't like filling forms? Send me an email.👋 &nbsp; 
-          <a href="mailto:jha.abhishek1099@gmail.com" onClick={copyEmail}>jha.abhishek1099@gmail.com &nbsp; <i className="fa-regular fa-copy"></i> </a>
-          
+          <a href="mailto:jha.abhishek1099@gmail.com" >jha.abhishek1099@gmail.com &nbsp; </a>
+          <i onClick={copyEmail} className="fa-regular fa-copy pointer"></i> 
           </p>
           <br/>
         </div>
