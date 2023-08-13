@@ -7,8 +7,6 @@ import "./contact.css";
 
 const Contact = () => {
   const form = useRef();
-  const [setCopySuccessMessage] = useState('')
-  const [setInstructions] = useState('')
 
   const sendEmail = (e) => {
     e.preventDefault();
