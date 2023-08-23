@@ -24,6 +24,8 @@ const Menu = [
     image: Event,
     title: "Event Management Platform",
     subtitle: "Our carefully chosen tools and frameworks enable a streamlined event planning process,ensuring a seamless experience for all. An event management website built with WordPress empowers users to effortlessly plan and book weddings, birthdays, and corporate events.",
+    category: "Website",
+
   },
 ];
 export default Menu
