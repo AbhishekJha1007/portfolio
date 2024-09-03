@@ -38,7 +38,7 @@ const Contact = () => {
         <div className="contact__infor">
           <h3 className="contact__title">Let's connect !</h3>
           <p className="contact__details">Don't like filling forms? Send me an email.👋 &nbsp; 
-          <a href="mailto:jha.abhishek1099@gmail.com" >jha.abhishek1099@gmail.com &nbsp; </a>
+          <a href="mailto:abhishekjha.code@gmail.com" >abhishekjha.code@gmail.com &nbsp; </a>
           <i onClick={copyEmail} className="fa-regular fa-copy pointer"></i> 
           </p>
           <br/>
