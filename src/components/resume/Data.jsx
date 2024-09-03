@@ -29,9 +29,9 @@ const Data = [
         id: 1,
         category: "experience",
         icon: "icon-briefcase",
-        year: "2022",
-        title: "Associate Software Engineer",
-        desc: "As a Frontend Developer I was tasked to work on frontend user stories on React.js for the Supply Chain Management.",
+        year: "2024",
+        title: "Junior Software Engineer | Objectide",
+        desc: "Developed and enhanced front-end features for web applications using HTML, CSS, JavaScript, and React.Collaborated on user stories to enhance software requirements. Worked in an Agile environment to efficiently deliver high-quality projects. Utilized problem-solving skills to resolve front-end issues and ensure a seamless user experience.",
     },
 
     // {

@@ -23,7 +23,7 @@ const Contact = () => {
   };
 
   function copyEmail() {
-    navigator.clipboard.writeText('jha.abhishek1099@gmail.com')
+    navigator.clipboard.writeText('abhishekjha.code@gmail.com')
     // setCopySuccessMessage(`jha.abhishek1099@gmail.com copied to clipboard`)
     // setInstructions('')
     // window.open('mailto:jha.abhishek1099@gmail.com')
