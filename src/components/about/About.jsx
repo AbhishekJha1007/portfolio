@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 import AboutBox from "./AboutBox";
-import Resume from "../../Assets/AbhishekJha_Dev.pdf"
+import Resume from "../../Assets/AbhishekJha_Resume.pdf"
 const About = () => {
   return (
     <section className="about container section" id="about">
