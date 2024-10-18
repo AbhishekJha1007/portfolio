@@ -29,11 +29,11 @@
   margin-bottom: 0.5rem;
 }
 
-@media screen and (max-width: 700px ) {
+/* @media screen and (max-width: 700px ) {
   .intro h1 {
     color: green;
   }
-}
+} */
 
 
 
